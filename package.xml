@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <name>soem</name>
+  <version>1.0.0</version>
+  <description>SOEM ROS</description>
+  <maintainer email="allevato@utexas.edu">Adam Allevato</maintainer>
+  <license>BSD</license>
+  <url type="website">http://robotics.me.utexas.edu/</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
