@@ -18,10 +18,11 @@ Windows (Visual Studio)
 
 ROS Kinetic
 -----
-git clone -b mine_master https://github.com/mayurand/SOEM.git
-cd ..
-catkin_make
-source devel/setup.bash
+* Clone in WS and build
+  * `git clone -b mine_master https://github.com/mayurand/SOEM.git`
+  * `cd ..`
+  * `catkin_make`
+  * `source devel/setup.bash`
 
 Linux
 -----
