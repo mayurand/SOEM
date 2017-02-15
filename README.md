@@ -16,6 +16,13 @@ Windows (Visual Studio)
    * `cmake .. -G "NMake Makefiles"`
    * `nmake`
 
+ROS Kinetic
+-----
+git clone -b mine_master https://github.com/mayurand/SOEM.git
+cd ..
+catkin_make
+source devel/setup.bash
+
 Linux
 -----
 
